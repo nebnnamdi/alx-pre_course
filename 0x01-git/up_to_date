@@ -1,1 +1,5 @@
 echo '' > up_to_date
+<<<<<<< HEAD
+=======
+git pull origin master
+>>>>>>> master
